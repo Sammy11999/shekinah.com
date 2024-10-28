@@ -1,0 +1,31 @@
+.input{
+    height: 45px;
+    width: 87%;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    color: #fff;
+    padding: 0 0 0 42px;
+    background: rgba(255,255,255,0.2);
+}
+body{
+    background-color: rgb(41, 29, 4);
+}
+.box{
+    border-radius: 20px;
+}
+h1{
+    color: #fff;
+}
+h2{
+    color: #fff;
+}
+h3{
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+label{
+    color: #fff;
+}
